@@ -1,0 +1,16 @@
+Para verificar a validação do cadastro de um novo usuário:
+
+1 -Primeiramente logar com usuário padrão:
+
+email: admin@admin
+
+senha: 123456
+
+2- Clicar na aba Cadastro
+
+Nesta aba é possível adicionar mais usuários para logar, e ela faz a validação
+   - se o campo do email tem pelo menos 1 @
+   - se no campo da senha tem 6 ou mais caracteres.
+
+-Caso uma das condições não seja atendida a mensagem será mostrada na propria tela da interface.
+-O email tem preferência, logo se este está errado não será validado a senha até o correção do email.

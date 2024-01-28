@@ -1,0 +1,2 @@
+Usando seus conhecimentos aprendidos em sala, realize uma interface de login utilizando a biblioteca Tkinter em Python. 
+O objetivo é permitir que o usuário faça o login somente se a senha tiver mais de 6 digitos e se o email contiver o caractere "@", ou seja, realizar uma tela de login com restrições de email e senha.
